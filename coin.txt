@@ -3,3 +3,8 @@
 3
 4
 5
+Bitcoin (BTC) 
+Ethereum (ETH) 
+Tether (USDT) 
+USD Coin (USDC) 
+Binance Coin (BNB)
